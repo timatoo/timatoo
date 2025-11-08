@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNmeWhwYWUyaXl0Y3Rwc2MzcnY5Z3hwYTV6c3BsMXZwOW9hZW1scSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NlpnSfpBdjwxG/giphy.gif" width="1000" height="300">
+</p>
 
-<!--
-**timatoo/timatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/timatoo?tab=followers">
+  <img src="https://img.shields.io/github/followers/timatoo?label=Followers&style=social" alt="GitHub Badge" />
+  </a>
 
-Here are some ideas to get you started:
+  <p align="center">
+Hi there! I'm <br>
+<img src="https://img.shields.io/badge/Tima-FB8D9E?style=for-the-badge&logo=github" alt="Tima">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Welcome to my Github! I am a programmer with a passion for building <strong>inclusive and engaging</strong> projects for users of all skill levels. My goal is to learn new technologies, collaborate and grow!
+</p>
+<p align="center">
+  Feel free to explore my repositories or get in touch!
+</p>
